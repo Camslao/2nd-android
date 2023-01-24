@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAqua">#00FFFF</color>
+    <color name="colorPrimaryDark">#cc1d1d</color>
+    <color name="colorBlueGray">#AEC6CF</color>
+    <color name="colorBlue">#0D98BA</color>
+    <color name="colorDarkRed">#86110e</color>
+    <color name="bgStart">#000000</color>
+    <color name="bgEnd">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+</resources>
