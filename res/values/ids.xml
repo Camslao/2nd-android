@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="userLastNameWrapper" type="id">userLastNameWrapper</item>
+    <item name="userConfPasswordWrapper" type="id">userConfPasswordWrapper</item>
+    <item name="userContactNumberWrapper" type="id">userContactNumberWrapper</item>
+    <item name="userEmail" type="id">userEmail</item>
+</resources>
